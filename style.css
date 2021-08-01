@@ -1,0 +1,28 @@
+
+
+
+* {
+    background-color: white;
+   /* background-image: url("background1.png");*/
+}
+
+.class1,.class2,.class3,.class4 {
+    color :blue;
+
+}
+
+a{
+opacity : 0.3;
+}
+
+a:hover img{
+opacity : 1;
+}
+
+a:link{
+    color : purple;
+}
+
+a:visited{
+    color :yellow;
+}
